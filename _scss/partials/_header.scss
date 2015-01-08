@@ -136,7 +136,7 @@ header {
   z-index: 100;
   overflow: scroll;
 
-  // insuring that off-canvas doesn't take more than the average iPhone portrait width under 400px
+  // insuring that off-canvas doesnt take more than the average iPhone portrait width under 400px
   @media (max-width: 399px) {
     max-width: 320px;
   }

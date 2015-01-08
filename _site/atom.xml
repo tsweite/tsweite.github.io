@@ -4,11 +4,23 @@
   <id>http://tsweite.github.io</id>
   <link href="http://tsweite.github.io" />
   <link href="http://tsweite.github.io/atom.xml" rel="self" />
-  <updated>2015-01-07T14:18:03+10:00</updated>
+  <updated>2015-01-08T11:55:30+10:00</updated>
   <rights>Copyright 2014, Tristan Weite</rights>
   <author>
     <name>Tristan Weite</name>
   </author>
+  
+    <entry>
+      <title>First Post</title>
+      <link href="http://tsweite.github.io/2015/01/08/first-post/" />
+      <summary type="html">&lt;p&gt;The post that hurts the most.&lt;/p&gt;
+</summary>
+      <id>http://tsweite.github.io/2015/01/08/first-post/</id>
+      <updated>2015-01-08T21:09:51+10:00</updated>
+      <author>
+        <name>Tristan Weite</name>
+      </author>
+    </entry>
   
     <entry>
       <title>Welcome to Hikari for Jekyll!</title>
@@ -118,6 +130,7 @@
 
 &lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
 &lt;p&gt;But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.&lt;/p&gt;
+
 </summary>
       <id>http://tsweite.github.io/2014/01/28/hikari-styling-guide/</id>
       <updated>2014-01-28T02:57:51+10:00</updated>
