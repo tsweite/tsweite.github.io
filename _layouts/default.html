@@ -52,7 +52,7 @@
 
       <header>
         <div class="h-wrap">
-          <h1 class="title"><a href="{{ site.baseurl }}" title="Back to Homepage">{{ site.name }}</a></h1>
+          <h1 class="title"><a href="{{ site.url }}" title="Back to Homepage">{{ site.name }}</a></h1>
           <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
         </div>
       </header>
@@ -68,7 +68,7 @@
     </div> 
     {% comment %} site-wrapper {% endcomment %}
 
-    <script src="{{ site.baseurl }}/js/main.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
     {% comment %} Google Analytics {% endcomment %}
     {% if site.ga_tracking_id and site.ga_domain %}
       <script>
