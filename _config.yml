@@ -7,7 +7,7 @@ description: "Is that a fungus?"
 # Your name. Will show in your footer + sidebar 
 author: "Tristan Weite"
 
-url: "http://tsweite.github.io"
+url: "http://tsweite.github.io/"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
@@ -30,8 +30,8 @@ markdown: kramdown
 permalink: pretty
 highlighter: pygments
 
-paginate: 10
-paginate_path: "/page/:num"
+## paginate: 10
+## paginate_path: "/page/:num"
 
 # SCSS
 
