@@ -8,7 +8,7 @@ description: "Is that a fungus?"
 author: "Tristan Weite"
 
 url: "http://tsweite.github.io"
-baseurl: ""
+baseurl: "/tsweite.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
 author-bio: "I'm Tristan and this is my blog so why don't you close this damn side panel and start reading my awesome stuff?"
